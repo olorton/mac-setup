@@ -1,4 +1,13 @@
-# Dotfiles Readme
+# Mac Setup
+
+---------------------------------------
+
+This has been forked from my dotfiles so that I can seperate the two purposes of my dotfiles repo,
+my mac setup will continue here, with all of the dotfile stuff removed.
+
+There are still lots of todos, like this readme. Nothing here makes sense yet.
+
+---------------------------------------
 
 This is more than just a standard dotfiles repo. Using ansible I can install a whole bunch of apps and set up a development environment.
 
